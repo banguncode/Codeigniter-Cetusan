@@ -9,17 +9,17 @@ Langkah 1. Buka terminal atau jalankan 'git clone https://github.com/piece601/Co
 
 Langkah 2. Unzip file dan letakkan Application / Controllers / Cetusan.php di Application / Controllers Anda
 
-Langkah 3. Buka terminal dan ubah direktori ke direktori proyek Anda, jalankan 'php pitisan'.
+Langkah 3. Buka terminal dan ubah direktori ke direktori proyek Anda, jalankan 'php cetusan'.
 
 Penggunaan
 
-$ php index.php pitisan # Lihat bantuan
+$ php index.php cetusan # Lihat bantuan
 
-$ php index.php pitisan controller # Lihat bantuan controller
+$ php index.php cetusan controller # Lihat bantuan controller
 
-$ php index.php pitisan controller user # Membuat file controller User.php ke dalam direktori controller
+$ php index.php cetusan controller user # Membuat file controller User.php ke dalam direktori controller
 
-$ php index.php pitisan controller admin.user # Buat file controller User.php ke dalam direktori controllers / admin
+$ php index.php cetusan controller admin.user # Buat file controller User.php ke dalam direktori controllers / admin
 
 Lain-lain
 
