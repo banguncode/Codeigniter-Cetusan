@@ -1,7 +1,7 @@
 # Codeigniter-Cetusan
 
 Membuat Model, View dan Controller pada Codeigniter 3 secara simple. Hampir sama seperti artisan yang ada pada framework Laravel.
-Tool ini dibuat oleh Pece Chao dengan nama Pitisan (bisa lihat di repositori https://github.com/piece601/Codeigniter-Pitisan) yang saya remake dengan menambahkan kerangka CRUD pada file model dan controller. Karena sebelumnya hanya berupa konstruksi untuk membuat model dan controller.
+Tool ini dibuat oleh Piece Chao dengan nama Pitisan (bisa lihat di repositori https://github.com/piece601/Codeigniter-Pitisan) yang saya remake dengan menambahkan kerangka CRUD pada file model dan controller. Karena sebelumnya hanya berupa konstruksi untuk membuat model dan controller.
 
 Installasi
 
