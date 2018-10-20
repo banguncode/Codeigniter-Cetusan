@@ -5,7 +5,7 @@ Tool ini dibuat oleh Pece Chao dengan nama Pitisan (bisa lihat di repositori htt
 
 Installasi
 
-Langkah 1. Buka terminal atau jalankan 'git clone https://github.com/piece601/Codeigniter-Cetusan.git'
+Langkah 1. Buka terminal atau jalankan 'git clone https://github.com/bangunkode/Codeigniter-Cetusan.git'
 
 Langkah 2. Unzip file dan letakkan Application / Controllers / Cetusan.php di Application / Controllers Anda
 
